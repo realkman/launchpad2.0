@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+# local app data, never commit
+.launchpad/
+launchpad.db
+settings.json
+session.token
