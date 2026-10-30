@@ -12,6 +12,7 @@ A simple custom game launcher with local accounts, built with Python and Tkinter
 * Play count, playtime and last-played tracking
 * Search, filters (All / Installed / Not installed / Steam / Non-Steam), card or list view
 * Light, dark, or match-system theme
+* NEW Plugins, allows users to expand launchpad's features without harming the users computer.
 
 ## Run from source
 
