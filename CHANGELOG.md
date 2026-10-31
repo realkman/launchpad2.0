@@ -18,3 +18,4 @@
 * Extended plugin capabilities
 * Updated ui (can toggle legacy ui)
 * Easy plugin maker created.
+* Added splashscreen on open
