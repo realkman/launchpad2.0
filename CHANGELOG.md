@@ -12,3 +12,9 @@
 * Added account management menu
 * Added "Who's Playing?" screen on startup (toggleable)
 * Added steam achievement sync
+
+## V0.0.3
+
+* Extended plugin capabilities
+* Updated ui (can toggle legacy ui)
+* Easy plugin maker created.
